@@ -2,7 +2,7 @@
 
 This is a simple website that generates random jokes using HTML, CSS, and JavaScript.
 
-**Live Demo:** [Random Joke Website](https://your-website.com)
+**Live Demo:** [Random-Joke](https://randomjoke.vercel.app/)
 
 ## How to Use
 
@@ -17,5 +17,7 @@ This is a simple website that generates random jokes using HTML, CSS, and JavaSc
 - CSS
 - JavaScript
 
-**License:** MIT
+## API
+
+You can access the API at [API](https://icanhazdadjoke.com/api).
 

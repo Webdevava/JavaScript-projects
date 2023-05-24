@@ -43,7 +43,7 @@ p {
   transition: opacity 1.5s;
 }
 
-button {
+#btn {
   display: block;
   border: none;
   outline: none;
@@ -59,8 +59,24 @@ button {
   box-shadow: 0px 5px 0px 0px #c2b00e;
 }
 
-button:active {
+#btn:active,#copy:active{
   transform: translateY(5px);
   box-shadow: 0px 0px 0px 0px #c2b00e;
+}
+
+
+#copy{
+  display: block;
+  border: none;
+  outline: none;
+  background-color: #fab22e;
+  padding: 2px;
+  font-size: 15px;
+  font-weight:200;
+  color: #15161a;
+  border-radius: 2px;
+  transition: all ease 0.1s;
+  cursor: pointer;
+  box-shadow: 0px 5px 0px 0px #c2b00e;
 }
 
